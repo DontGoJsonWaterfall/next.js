@@ -1,1 +1,1 @@
-# next.js
+My first [next.js](https://nextjs.org/learn) app.
